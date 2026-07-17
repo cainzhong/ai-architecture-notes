@@ -3,8 +3,6 @@ layout: page
 title: "Beyond RAG: AI Memory Is More Than Chat History"
 ---
 
-# Beyond RAG: AI Memory Is More Than Chat History
-
 ## A Practical Architecture for Safe, Governed Continuity
 
 ## Bottom Line
