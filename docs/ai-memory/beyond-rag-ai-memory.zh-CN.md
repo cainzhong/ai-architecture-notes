@@ -1,3 +1,8 @@
+---
+layout: page
+title: "从 RAG 到 AI Memory：为什么“记住聊天记录”还不够？"
+---
+
 # 从 RAG 到 AI Memory：为什么“记住聊天记录”还不够？
 
 ## 一个面向企业 AI 助手的连续上下文架构
