@@ -1,6 +1,9 @@
-title: "Beyond RAG: AI Memory Is More Than Chat History"
+title: "AI Architecture Notes"
 description: "Practical architecture notes on AI systems, including RAG, memory-augmented applications, agents, evaluation, governance, and enterprise-ready engineering patterns."
 theme: minima
+
+header_pages:
+  - index.md
 
 markdown: kramdown
 kramdown:
